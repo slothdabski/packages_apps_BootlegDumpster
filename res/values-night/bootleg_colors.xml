@@ -15,4 +15,6 @@
     <!-- Bottom navbar colors -->
     <color name="preference_bottomnav_background_color">@*android:color/background_floating_device_default_dark</color>
     <color name="preference_bottomnav_ripple_color">#33FFFFFF</color>
+
+    <color name="fod_item_background_stroke_color">#555555</color>
 </resources>

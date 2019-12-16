@@ -15,4 +15,9 @@
 	<dimen name="catpreference_icon_size">42dp</dimen>
 	<dimen name="catpreference_icon_header_size">125dp</dimen>
 
+        <!-- FOD Icon Picker -->
+        <dimen name="fod_picker_item_margin">20dp</dimen>
+        <dimen name="fod_picker_item_size">100dp</dimen>
+        <dimen name="fod_picker_item_padding">20dp</dimen>
+
 </resources>
